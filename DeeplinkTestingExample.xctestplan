@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "B263E685-4800-4093-B85B-1F9B4B4AF7FA",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "distributor" : "com.apple.TestFlight",
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:DeeplinkTestingExample.xcodeproj",
+      "identifier" : "64A19C662DAD840600072D8F",
+      "name" : "DeeplinkTestingExample"
+    },
+    "uiTestingScreenshotsLifetime" : "keepNever"
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:DeeplinkTestingExample.xcodeproj",
+        "identifier" : "64A19C802DAD840700072D8F",
+        "name" : "DeeplinkTestingExampleUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

@@ -1,0 +1,15 @@
+{
+  "originHash" : "4c7c9ad4073ae56c5ed646b34f2dd7166b458d89822b97a415748c6b348d62eb",
+  "pins" : [
+    {
+      "identity" : "deeplinktesthelper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/josshad/DeeplinkTestHelper.git",
+      "state" : {
+        "revision" : "98e23503b3ea236de665111e4c9e43734795f639",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
